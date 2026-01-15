@@ -8,7 +8,7 @@ Currently, I'm diving deep into **Java Advance** and exploring the intersection 
 
 ### 🛠️ Tech Stack
 
-* **Languages:** Java, Dart, TypeScript, HTML/CSS
+* **Languages:** Java, Dart, TypeScript, HTML/CSS, C++
 * **Frameworks:** Flutter, React (learning)
 * **Tools:** Git, GitHub, VS Code
 
@@ -21,9 +21,6 @@ A Flutter application designed for fitness and posture correction.
 * **Tech:** Dart, ML Models, Real-time pose detection.
 * **Features:** Uses mobile camera for posture correction and microphone for heart rate monitoring to act as a "Heart Health Companion."
 
-#### 🌊 [MarineIQ](https://github.com/AdityaFattepure/MarineIQ)
-* **Topic:** AI-Driven Unified Data Platform for Oceanographic, Fisheries, and Molecular Biodiversity Insights.
-* **Goal:** Demystifying complex marine data for better sustainability.
 
 ---
 
